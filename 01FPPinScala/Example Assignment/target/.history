@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/hrvoje.jerkovic.ALGEBRA/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/hrvoje.jerkovic.ALGEBRA/Downloads/example/example/}root/products {file:/C:/Users/hrvoje.jerkovic.ALGEBRA/Downloads/example/example/}root/test:products
+compile
+test
+submit hrvojej@gmail.com 95FMjOvm0oZj7RZL
