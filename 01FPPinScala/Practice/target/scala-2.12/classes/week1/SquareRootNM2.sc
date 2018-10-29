@@ -1,19 +1,24 @@
 
-def sqrt(x:Double):Double = {
+def sqare(x: Double) = x * x
 
-  def sqare(x:Double) = x*x
-  def abs(x:Double) = if (x>=0) x else -x
+def abs(x: Double) = if (x >= 0) x else -x
 
-  def sqrtIter(guess:Double):Double =
+def sqrt(x:Double)= {
+
+   def sqrtIter(guess: Double): Double =
     if (isGoodEnough(guess)) guess
     else sqrtIter(improve(guess))
 
   def isGoodEnough(guess: Double) =
-    abs(sqare(guess) - x)/x <5e-10
+    abs(sqare(guess) - x) / x < 0.000001
 
-  def improve(guess:Double) =
-    (guess + x/guess)/2
+  def improve(guess: Double) =
+    (guess + x / guess) / 2
+
+  sqrtIter(20.0)
 }
 
-sqrt(20.0)
+sqrt(25.0)
+
+
 
