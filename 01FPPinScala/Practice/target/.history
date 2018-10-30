@@ -1,3 +1,14 @@
 ;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/hrvoje.jerkovic.ALGEBRA/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Users/hrvoje.jerkovic.ALGEBRA/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
 exit
 runMain
+Main.main(Array("Idemo!! ljudi")) 
+sbt console
+sbt run
+sbt runMain
+compile
+run Main
+run Main.main
+run runMain
+console
+sbt run
+sbt run C:\Scala-Spark-Specialisation\01FPPinScala\Practice\src\main\scala\assignments\01ASSIG_PascalTriangle.sc
