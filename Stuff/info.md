@@ -20,4 +20,4 @@ run
 ## SUBMIT
 submit hrvojej@gmail.com 95FMjOvm0oZj7RZLZZ
 or
-sbt "submit hrvojej@gmail.com 95FMjOvm0oZj7RZL"
+sbt "submit hrvojej@gmail.com 95FMjOvm0oZj7RZLZZ"

@@ -12,3 +12,5 @@ run runMain
 console
 sbt run
 sbt run C:\Scala-Spark-Specialisation\01FPPinScala\Practice\src\main\scala\assignments\01ASSIG_PascalTriangle.sc
+sbt clean
+clean
