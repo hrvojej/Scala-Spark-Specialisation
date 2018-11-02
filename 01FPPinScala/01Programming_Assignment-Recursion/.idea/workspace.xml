@@ -2,123 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e699279a-9be7-416a-9a7a-b57faf9ed7af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/03CountingChange.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/03Test.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/03test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/02HigherOrderFunctions.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51b8e1825141453a9d01$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51b8e1825141453a9d01$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51b8e1825141453a9d01.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51b8e1825141453a9d01.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/recfun/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recfun/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/recfun/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/progfun1-recfun_2.11-0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/progfun1-recfun_2.11-0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/.idea/modules/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/modules/Practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/01ASSIG_PascalTriangle.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/01ASSIG_PascalTriangle.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/02ParenthesesBalancing .sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/02ParenthesesBalancing .sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/02Test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/02Test.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/assignments/Assignment11.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/assignments/01ASSIG_PascalTriangle.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/assignments/Assignment11.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/assignments/EuclidsAlgorithm.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/01Notes.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/Factorial.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/Factorial_TailRecursive.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/SQRT.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/SquareRootNM.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/SquareRootNM2.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/TailRecursion.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/classes/week1/test.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/practice_2.12-0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/default/practice$sources/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/default/practice$sources/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/default/practice_2.12/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/default/practice_2.12/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.4/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.4/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice$sources-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/default-practice_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/console/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/bgRun/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/console/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/console/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/exportedProductJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/fullClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/mainClass/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/exportedProductJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/fullClasspathAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/internalDependencyAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Stuff/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Stuff/info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/01Notes.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/01Basics.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/EuclidsAlgorithm.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/EuclidsAlgorithm.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/Factorial.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/Factorial.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/Factorial_TailRecursive.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/Factorial_TailRecursive.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/SQRT.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/SQRT.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/SquareRootNM.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/SquareRootNM.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/SquareRootNM2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/SquareRootNM2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/TailRecursion.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/GDC-TailRecursion.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/main/scala/week1/test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/main/scala/lectures/test.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -138,12 +40,13 @@
     <session id="-503315085">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -177,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
+            <state relative-caret-position="150">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -186,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="315">
               <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
@@ -240,10 +143,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="1942" />
-    <option name="height" value="1067" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1944" />
+    <option name="height" value="1068" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -475,8 +378,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1351" height="737" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.186677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18977536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -537,6 +441,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/test.sc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -555,20 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
         </state>
       </provider>
     </entry>
