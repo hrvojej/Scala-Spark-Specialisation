@@ -1,7 +1,7 @@
 # Functional Programming in Scala - Coursera Specialization 
 ## Hrvoje Jerkovic <br>
 
-My repository for useful codes, assignments and project submission. <br>
+My repository for useful projects, codes, assignments and project submissions. <br>
 
 ## Course 01 - Functional Programming Principles in Scala
 

@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/04Excercise-ProductFunction.sc" line="4" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b95d44d5-2711-4224-9a14-94597d246d3f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc" afterDir="false" />
-    </list>
+    <list default="true" id="b95d44d5-2711-4224-9a14-94597d246d3f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -30,7 +28,7 @@
     <session id="608966878">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -314,7 +312,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541759293848" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541768968858" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
