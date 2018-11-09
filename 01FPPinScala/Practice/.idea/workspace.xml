@@ -6,21 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b95d44d5-2711-4224-9a14-94597d246d3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/01FunctionReturningFunction.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/02FunctionReturningFShort.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/03MultiplePars.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/04Excercise-ProductFunction.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/02HigherOrder-test.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/02HigherOrderSumming.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/03AnonymousFunctions.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/04TailRecursiveSum.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/package.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/02HigherOrderFunctions.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/02HigherOrderFunctions.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/02HigherOrderFunctionsAssignement.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/HigherOrderFunctions/02HigherOrderFunctionsAssignement.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/SquareRootNM2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/SquareRootNM2.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/test.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,7 +59,7 @@
           <entry key="dummy" value="1" />
           <entry key="java" value="84" />
           <entry key="sbtShell" value="241" />
-          <entry key="sc" value="19978" />
+          <entry key="sc" value="20210" />
           <entry key="scala" value="58" />
         </counts>
       </usages-collector>
@@ -81,7 +67,7 @@
         <counts>
           <entry key="JAVA" value="84" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scala" value="20036" />
+          <entry key="Scala" value="20268" />
           <entry key="sbtShell" value="241" />
         </counts>
       </usages-collector>
@@ -128,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -328,7 +314,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541759131264" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541759293848" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -428,7 +414,7 @@
     <frame x="1912" y="-8" width="1618" height="887" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27086008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27278563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -775,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/lectures/L2/Currying/05MapReduce-Product.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
