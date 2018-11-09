@@ -1,5 +1,5 @@
-
-def sqare(x: Double) = x * x
+// Square root Newton method
+def square(x: Double) = x * x
 
 def abs(x: Double) = if (x >= 0) x else -x
 
@@ -10,7 +10,7 @@ def sqrt(x:Double)= {
     else sqrtIter(improve(guess))
 
   def isGoodEnough(guess: Double) =
-    abs(sqare(guess) - x) / x < 0.000001
+    abs(square(guess) - x) / x < 0.000001
 
   def improve(guess: Double) =
     (guess + x / guess) / 2
